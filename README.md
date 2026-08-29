@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harshit%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Developer%20%7C%20Backend%20%26%20AI%20Systems%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harshit%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Developer%20%7C%20Backend%20%7C%20AI%20Systems%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI-native+multi-agent+SDLC+pipelines;Shipped+380+enterprise+report+modules+in+%3C1+month;Designing+distributed+backend+systems+at+scale;RAG+%7C+Knowledge+Graphs+%7C+MCP+%7C+Vector+Search;Java+%7C+Spring+Boot+%7C+Kafka+%7C+Microservices" alt="Typing SVG" />
@@ -257,6 +257,8 @@ Built and deployed AI-driven chatbots, document parsers, and semantic search pip
 <img src="https://github-trophies.vercel.app/?username=29hsingh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
 
 ## 🌟 Featured Projects
 
