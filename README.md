@@ -258,16 +258,6 @@ Built and deployed AI-driven chatbots, document parsers, and semantic search pip
 
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph-liard.vercel.app/graph?username=29hsingh&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff&area=true&area_color=6d28d9" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
-
 ## 🌟 Featured Projects
 
 <div align="center">
