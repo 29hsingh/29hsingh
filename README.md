@@ -243,8 +243,8 @@ Built and deployed AI-driven chatbots, document parsers, and semantic search pip
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=29hsingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=29hsingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=29hsingh&theme=tokyonight"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=29hsingh&theme=tokyonight"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=29hsingh&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
 
@@ -254,7 +254,7 @@ Built and deployed AI-driven chatbots, document parsers, and semantic search pip
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=29hsingh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+<img src="https://github-trophies.vercel.app/?username=29hsingh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
 
 </div>
 
@@ -262,7 +262,7 @@ Built and deployed AI-driven chatbots, document parsers, and semantic search pip
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=29hsingh&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff&area=true&area_color=6d28d9" width="100%"/>
+<img src="https://github-readme-activity-graph-liard.vercel.app/graph?username=29hsingh&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff&area=true&area_color=6d28d9" width="100%"/>
 
 </div>
 
